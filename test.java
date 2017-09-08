@@ -1,6 +1,7 @@
 // Program to find best buying and selling days
 import java.util.ArrayList;
  
+
 // Solution structure
 class Interval
 {
